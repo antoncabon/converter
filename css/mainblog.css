@@ -2471,13 +2471,13 @@ a,
 }
 
 .section-get-started,
-.section-header-freebie,
-.section-our-team-freebie {
+.section-header,
+.section-counter {
   padding-bottom: 0;
 }
 .section-get-started .container,
-.section-header-freebie .container,
-.section-our-team-freebie .container {
+.section-header .container,
+.section-counter .container {
   position: relative;
   z-index: 100;
   display: block;
@@ -2485,43 +2485,43 @@ a,
   text-align: center;
 }
 .section-get-started .title-header,
-.section-header-freebie .title-header,
-.section-our-team-freebie .title-header {
+.section-header .title-header,
+.section-counter .title-header {
   text-transform: none;
 }
 .section-get-started .button-contact,
-.section-header-freebie .button-contact,
-.section-our-team-freebie .button-contact {
+.section-header .button-contact,
+.section-counter .button-contact {
   padding: 25px 0 17px;
 }
 .section-get-started .text-description,
-.section-header-freebie .text-description,
-.section-our-team-freebie .text-description {
+.section-header .text-description,
+.section-counter .text-description {
   color: #fff;
   margin: 40px auto;
   max-width: 760px;
 }
 .section-get-started .text-white,
-.section-header-freebie .text-white,
-.section-our-team-freebie .text-white {
+.section-header .text-white,
+.section-counter .text-white {
   color: #fff;
 }
 .section-get-started .text-gold,
-.section-header-freebie .text-gold,
-.section-our-team-freebie .text-gold {
+.section-header .text-gold,
+.section-counter .text-gold {
   color: #c5a47e;
 }
 .section-get-started .parallax,
 .section-get-started .static-image,
-.section-header-freebie .parallax,
-.section-header-freebie .static-image,
-.section-our-team-freebie .parallax,
-.section-our-team-freebie .static-image {
+.section-header .parallax,
+.section-header .static-image,
+.section-counter .parallax,
+.section-counter .static-image {
   height: auto;
 }
 .section-get-started .image,
-.section-header-freebie .image,
-.section-our-team-freebie .image {
+.section-header .image,
+.section-counter .image {
   height: 100%;
 }
 
@@ -2587,11 +2587,11 @@ a,
 
 /* END HOME */
 /* FREEBIE */
-.section-header-freebie {
+.section-header {
   padding: 0;
 }
 
-.section-our-team-freebie .container {
+.section-counter .container {
   margin-top: 14vh;
   margin-bottom: 50px;
 }
