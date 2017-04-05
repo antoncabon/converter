@@ -2472,12 +2472,12 @@ a,
 
 .section-get-started,
 .section-header,
-.section-counter {
+.section-counter-link {
   padding-bottom: 0;
 }
 .section-get-started .container,
 .section-header .container,
-.section-counter .container {
+.section-counter-link .container {
   position: relative;
   z-index: 100;
   display: block;
@@ -2486,42 +2486,42 @@ a,
 }
 .section-get-started .title-header,
 .section-header .title-header,
-.section-counter .title-header {
+.section-counter-link .title-header {
   text-transform: none;
 }
 .section-get-started .button-contact,
 .section-header .button-contact,
-.section-counter .button-contact {
+.section-counter-link .button-contact {
   padding: 25px 0 17px;
 }
 .section-get-started .text-description,
 .section-header .text-description,
-.section-counter .text-description {
+.section-counter-link .text-description {
   color: #fff;
   margin: 40px auto;
   max-width: 760px;
 }
 .section-get-started .text-white,
 .section-header .text-white,
-.section-counter .text-white {
+.section-counter-link .text-white {
   color: #fff;
 }
 .section-get-started .text-gold,
 .section-header .text-gold,
-.section-counter .text-gold {
+.section-counter-link .text-gold {
   color: #c5a47e;
 }
 .section-get-started .parallax,
 .section-get-started .static-image,
 .section-header .parallax,
 .section-header .static-image,
-.section-counter .parallax,
-.section-counter .static-image {
+.section-counter-link .parallax,
+.section-counter-link .static-image {
   height: auto;
 }
 .section-get-started .image,
 .section-header .image,
-.section-counter .image {
+.section-counter-link .image {
   height: 100%;
 }
 
@@ -2591,7 +2591,7 @@ a,
   padding: 0;
 }
 
-.section-counter .container {
+.section-counter-link .container {
   margin-top: 14vh;
   margin-bottom: 50px;
 }
